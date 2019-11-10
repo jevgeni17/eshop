@@ -1,0 +1,43 @@
+"файл описания товара"
+{
+  "1234":{
+    "name" : "Intel Core i7-8700K",
+    "type" : "CPU",
+    "sku" : "BX80684I78700K",
+    "warranty" : "36",
+    "Availability" : "In stock",
+    "img" : "i7-8700k.png"
+  }
+  "1235":{
+    "name" : "AMD Ryzen 7 2700X",
+    "type" : "CPU",
+    "sku" : "YD270XBGAFBOX",
+    "warranty" : "36",
+    "Availability" : "In stock",
+    "img" : "i7-8700k.png"
+  }
+  "1236":{
+    "name" : "Intel Core i3-8350K",
+    "type" : "CPU",
+    "sku" : "BX80684I38350K",
+    "warranty" : "36",
+    "Availability" : "In stock",
+    "img" : "i7-8700k.png"
+  }
+  "1237":{
+    "name" : "Gigabyte Aorus GA-AX370-Gaming 5",
+    "type" : "Motherboard",
+    "sku" : "GA-AX380-Gaming 5",
+    "warranty" : "24",
+    "Availability" : "In stock",
+    "img" : "i7-8700k.png"
+  }
+  "1238":{
+    "name" : "ASUS ROG STRIX Z370-I Gaming",
+    "type" : "Motherboard",
+    "sku" : "ROG STRIX Z370-I GAMING",
+    "warranty" : "24",
+    "Availability" : " Not available",
+    "img" : "i7-8700k.png"
+  }
+}
