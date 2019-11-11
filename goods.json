@@ -6,7 +6,7 @@
     "sku" : "BX80684I78700K",
     "warranty" : "36€",
     "Availability" : "In stock",
-    "img" : "i7-8700k.png"
+    "img" : "qq.jpg"
   },
   "1235":{
     "name" : "AMD Ryzen 7 2700X",
@@ -15,7 +15,7 @@
     "sku" : "YD270XBGAFBOX",
     "warranty" : "36",
     "Availability" : "In stock",
-    "img" : "i7-8700k.png"
+    "img" : "qq.jpg"
   },
   "1236":{
     "name" : "Intel Core i3-8350K",
@@ -24,7 +24,7 @@
     "sku" : "BX80684I38350K",
     "warranty" : "36",
     "Availability" : "In stock",
-    "img" : "i7-8700k.png"
+    "img" : "qq.jpg"
   },
   "1237":{
     "name" : "Gigabyte Aorus GA-AX370-Gaming 5",
@@ -33,7 +33,7 @@
     "sku" : "GA-AX380-Gaming 5",
     "warranty" : "24",
     "Availability" : "Not available",
-    "img" : "i7-8700k.png"
+    "img" : "qq.jpg"
   },
   "1238":{
     "name" : "ASUS ROG STRIX Z370-I Gaming",
@@ -42,6 +42,6 @@
     "sku" : "ROG STRIX Z370-I GAMING",
     "warranty" : "24",
     "Availability" : " Not available",
-    "img" : "i7-8700k.png"
+    "img" : "qq.jpg"
   }
 }
